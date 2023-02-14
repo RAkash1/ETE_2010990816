@@ -1,0 +1,30 @@
+.main{
+display: flex;
+padding: 50px;
+align-items: center;
+height: 600px;
+background-image: url('IMG-031-1.jpg');
+
+}
+.background{
+    height: 100%;
+    
+    background-size: cover;
+
+}
+.p{
+    font-size: 100px;
+    position: relative;
+    padding-right: 600px;
+}
+.linkh{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+    margin-top: -90px; 
+    background-color: black;
+
+}

@@ -1,0 +1,25 @@
+body{
+background-color: #F3F1F2;
+}
+.joblist{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.job{
+    background-color: #e8e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 300px 10px 300px;
+    border-radius: 10px;
+}
+.job span{
+    padding: 10px;
+}
+.apply{
+    background-color: #00ccd0;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+}
